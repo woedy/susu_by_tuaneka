@@ -1,0 +1,8 @@
+Hello {{ email }},
+
+{{ full_name }} has invited you to join   </p> <h2>{{ group_name }}
+If you already have the Susu by Tuaneka app go to it and join the group.
+If you don't have an account with us, Follow this link {{ path }} to Register and Download our app.
+
+Thank you,
+Susu by Tuaneka
